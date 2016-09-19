@@ -1,4 +1,3 @@
-# hello_world
 Ideas Repository
 
 Write all potential ideas here. 
